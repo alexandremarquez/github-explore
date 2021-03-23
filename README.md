@@ -205,9 +205,14 @@
 - Install css-loader and style-loader
 - Add rule for file *.css in webpack config.
 
-### Using SASS
+## Using SASS
 
 - Install sass-loader and node-sass
 - Change rule css to scss with sass-loader
 - Rename files css to scss and imports.
 
+## First Component
+
+- RepositoryList
+- String Interpolation in JavaScript 
+- 
